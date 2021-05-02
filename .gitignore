@@ -1,12 +1,49 @@
 0926.rar
-0926/
-2809/
-2810/
 4334.rar
-4334/
 8487.rar
-8487/
 8778.rar
-8778/
 codes.rar
 lstm.ipynb
+8778/data_8778.csv
+8778/ConfMat Under Voltage.png
+8778/car_8778_lstmae_validation_loss.txt
+8778/car_8778_lstmae_test_loss.txt
+8778/car_8778_fcae_validation_loss.txt
+8778/car_8778_fcae_test_loss.txt
+8778/car_8778_advance_data.csv
+8778/car_8778_advance_data_lstm.csv
+8778/8778.csv
+8487/Predictions Before the Second Fault.png
+8487/Predictions before the first fault.png
+8487/data_8487.csv
+8487/car_8487_lstmae_validation_loss.txt
+8487/car_8487_lstmae_train_loss.txt
+8487/car_8487_lstmae_test_loss.txt
+8487/car_8487_fcae_validation_loss.txt
+8487/car_8487_fcae_train_loss.txt
+8487/car_8487_fcae_test_loss.txt
+0926/0926.csv
+0926/car_0926_advance_data_lstm.csv
+0926/car_0926_advance_data.csv
+0926/car_0926_fcae_test_loss.txt
+0926/car_0926_fcae_validation_loss.txt
+0926/car_0926_lstmae_test_loss.txt
+0926/car_0926_lstmae_validation_loss.txt
+.gitignore
+0926/data_0926.csv
+0926/Predictions Before the First Fault Under Voltage.png
+2809/2809.csv
+2810/2810.csv
+4334/4334.csv
+.gitignore
+4334/car_4334_fcae_test_loss.txt
+4334/car_4334_fcae_train_loss.txt
+4334/car_4334_fcae_validation_loss.txt
+4334/car_4334_lstmae_test_loss.txt
+4334/car_4334_lstmae_train_loss.txt
+4334/car_4334_lstmae_validation_loss.txt
+.gitignore
+8487/8487.csv
+4334/data_4334.csv
+8487/car_8487_advance_data_lstm.csv
+8487/car_8487_advance_data.csv
